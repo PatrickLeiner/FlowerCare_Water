@@ -19,6 +19,7 @@
 //                          connect a web client from a web browser. Both
 //                          clients can inter-communicate using appropriate
 //                          topic names.
+// BLA
 //
 // Application Details  -
 // http://processors.wiki.ti.com/index.php/CC32xx_MQTT_Client
